@@ -3,8 +3,8 @@
 
 - 🧑‍🎓 Actualmente sigo aprendiendo más acerca de este maravilloso mundo / Currently I am still learning more about this wonderful world
 - 🛠 Me gusta trabajar en equipo / I like team work 
-- 🕴 Si quieres saber de mi puedes escribirme / If you want to know about me you can write me
-- 📫 a este correo electrónico / to this email : linaresmenjivarjosuealexander@gmail.com
+- 🕴 Puedes contactarme / you can contact me
+- 📫 a este correo electrónico / at this email : linaresmenjivarjosuealexander@gmail.com
 - 🔥 Pueden llamarme/you can call me: Alex 
  
 
