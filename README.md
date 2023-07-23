@@ -4,7 +4,7 @@
 - 🧑‍🎓 Actualmente sigo aprendiendo más acerca de este maravilloso mundo / Currently I am still learning more about this wonderful world
 - 🛠 Me gusta trabajar en equipo / I like team work 
 - 🕴 Puedes contactarme / you can contact me
-- 📫 a este correo electrónico / at this email : linaresmenjivarjosuealexander@gmail.com
+- 📫 a este correo electrónico / at this email :
 - 🔥 Pueden llamarme/you can call me: Alex 
  
 
