@@ -6,6 +6,7 @@
 - 🕴 Puedes contactarme:
   - 📫 Por correo electrónico: alex.dev.fs503@gmail.com
   - 🔥 También puedes llamarme: Alex
+  - Portfolio in progress: https://josue-linares-portfolio.netlify.app
 
   
   ##
