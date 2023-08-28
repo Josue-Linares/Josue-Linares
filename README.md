@@ -18,8 +18,12 @@
   - Portfolio en progreso: [Mi Portafolio](https://josue-linares-portafolio.netlify.app/)
 
 ## Estadísticas de GitHub
-<a href="https://github.com/Josue-Linares-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Josue-Linares&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Estadísticas de GitHub" /></a>
-<a href="https://github.com/Josue-Linares-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue-Linares&layout=compact&theme=buefy&hide_border=true" alt="Lenguajes más utilizados" /></a>
+<a href="https://github.com/Josue-Linares-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Josue-Linares&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Estadísticas de GitHub" />
+</a>
+<a href="https://github.com/Josue-Linares-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue-Linares&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más utilizados" />
+</a>
 
 ## Lenguajes en Aprendizaje
 <div style="display: inline_block"><br>
