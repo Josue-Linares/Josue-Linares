@@ -9,8 +9,9 @@
 
 - 🧑‍🎓 Actualmente sigo aprendiendo más acerca de este maravilloso mundo.
 - 🛠 Me gusta trabajar en equipo.
-- 🕴 Puedes contactarme:
-  - 📫 Por correo electrónico: alex.dev.fs503@gmail.com
+- 🕴 contactame:
+  - 📫 correo electrónico: alex.dev.fs503@gmail.com
+  - 🔥 Linkdin: www.linkedin.com/in/josue-linares-16a73028a
   - 🔥 También puedes llamarme: Alex
   - Portfolio in progress: https://josue-linares-portafolio.netlify.app/
 
