@@ -9,30 +9,29 @@
 
 </p>
 
-- 🧑‍🎓 Actualmente sigo aprendiendo más acerca de este maravilloso mundo.
+- 🧑‍🎓 Actualmente sigo aprendiendo más acerca de este maravilloso mundo
 - 🛠 Me gusta trabajar en equipo.
 - 🕴 Contacto:
   - 📫 Correo electrónico: alex.dev.fs503@gmail.com
   - 🔥 LinkedIn: [Josue Linares](https://www.linkedin.com/in/josue-linares-16a73028a)
-  - 🔥 También puedes llamarme: Alex
-  - Portfolio en progreso: [Mi Portafolio](https://josue-linares-portafolio.netlify.app/)
+  - 📜 repositorios: [Mis Repositorios](https://github.com/Josue-Linares?tab=repositories)
 
-## Estadísticas de GitHub
-<a href="https://github.com/Josue-Linares-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Josue-Linares&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Estadísticas de GitHub" />
-</a>
-<a href="https://github.com/Josue-Linares-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue-Linares&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más utilizados" />
-</a>
 
-## Lenguajes en Aprendizaje
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
+# 💻 Habilidades:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Estadisticas:
+![](https://github-readme-stats.vercel.app/api?username=Josue-Linares&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Josue-Linares&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Josue-Linares&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GIF divertido](https://miro.medium.com/v2/resize:fit:720/0*EitUXT-pqbaQSCTt.gif)
+## 🏆 Trofeos
+![](https://github-profile-trophy.vercel.app/?username=Josue-Linares&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Repositorios más contribuidos
+![](https://github-contributor-stats.vercel.app/api?username=Josue-Linares&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Josue-Linares&icon=2&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
