@@ -9,7 +9,7 @@
 
 </p>
 
-- 🧑‍🎓 Actualmente sigo aprendiendo más acerca de este maravilloso mundo
+
 - 🛠 Me gusta trabajar en equipo.
 - 🕴 Contacto:
   - 📫 Correo electrónico: alex.dev.fs503@gmail.com
