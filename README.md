@@ -1,37 +1,51 @@
-# ¡Hola! 👋 Soy Josue Linares 😁
+<h1 align="center">JL</h1>
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0074E8&lines=Desarrollador%20Full%20Stack;Siempre%20aprendiendo%20cosas%20nuevas&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22" />
-</a>
+###
 
+<p align="left">¡Hola! Soy Josue Linares, un apasionado programador especializado en el desarrollo back-end con un enfoque principal en PHP y MySQL. Mi objetivo es crear soluciones eficientes y escalables que impulsen el funcionamiento de las aplicaciones y sitios web.</p>
 
-</p>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Josue-Linares&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Josue-Linares&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2&custom_title=LENGUAJES" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Josue-Linares&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Josue-Linares&theme=dracula&column=-1&row=2&margin-w=9&margin-h=7&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josue-Linares&radius=16&theme=material-palenight&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-- 🛠 Me gusta trabajar en equipo.
-- 🕴 Contacto:
-  - 📫 Correo electrónico: alex.dev.fs503@gmail.com
-  - 🔥 LinkedIn: [Josue Linares](https://www.linkedin.com/in/josue-linares-16a73028a)
-  - 📜 repositorios: [Mis Repositorios](https://github.com/Josue-Linares?tab=repositories)
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
 
-# 💻 Habilidades:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Estadisticas:
-![](https://github-readme-stats.vercel.app/api?username=Josue-Linares&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Josue-Linares&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Josue-Linares&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-## 🏆 Trofeos
-![](https://github-profile-trophy.vercel.app/?username=Josue-Linares&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Josue-Linares/count.svg?"  />
+</div>
 
-### 🔝 Repositorios más contribuidos
-![](https://github-contributor-stats.vercel.app/api?username=Josue-Linares&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=Josue-Linares&icon=2&color=11)](https://visitcount.itsvg.in)
+<img src="https://raw.githubusercontent.com/Josue-Linares/Josue-Linares/output/snake.svg" alt="Snake animation" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+###
